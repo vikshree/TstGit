@@ -1,0 +1,2 @@
+# TstGit
+For testing Git
